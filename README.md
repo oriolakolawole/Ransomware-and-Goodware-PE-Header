@@ -13,7 +13,7 @@ Link: *coming soon*
 **Dataset 3**
 This dataset is composed of data from various research papers. The ransomware dataset includes 2200 ransomware applications sourced from MarauderMap (Hou et al., 2024) and 1577 ransomware applications from ICFL-UP on GitHub (Dendere & Singh, 2024). The goodware dataset consists of 1267 benign applications provided directly by Moreira et al. (2024), 1000 goodware applications from Manavi and Hamzeh (2021c), and 982 goodware applications obtained from DikeDataset on GitHub.
 
-I extracted the PE Headers and saved it in the csv file below. The Python script I wrote is also here. 
+I extracted the PE Headers and saved it in the csv file in the repo. The Python script I wrote is also here. 
 
 **Reference**
 Dendere, T. R., & Singh, A. (2024). Ransomware detection using portable executable imports. International Conference on Cyber Warfare and Security, 19(1), 66–74. https://doi.org/10.34190/iccws.19.1.2031
